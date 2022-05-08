@@ -1,0 +1,10 @@
+.alert{
+    position: absolute;
+    bottom: 40px;
+    z-index: 10;
+    width: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    border-radius: 50px;
+}
